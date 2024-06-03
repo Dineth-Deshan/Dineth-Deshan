@@ -34,7 +34,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineth-deshan&show_icons=true&locale=en" alt="dineth-deshan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineth-deshan&show_icons=true&locale=en" alt="dineth-deshan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-deshan&" alt="dineth-deshan" /></p>
 
