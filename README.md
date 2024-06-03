@@ -34,12 +34,18 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineth-deshan&show_icons=true&locale=en" alt="dineth-deshan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-deshan&" alt="dineth-deshan" /></p>
+
+
+<Br>
+  
+[![Dineth's github stats](https://github-readme-stats.vercel.app/api?username=dineth-deshan&show_icons=true&locale=en)](https://github.com/dineth-deshan/github-readme-stats) [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=dineth-deshan&&layout=compact&theme=merko)](https://github.com/dineth-deshan/github-readme-stats)
+
+ 
+<Br>
+
 </br></br>
 	
 ## 🙋🏻‍♂️ Let's Connect
