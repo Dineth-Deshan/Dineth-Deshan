@@ -39,13 +39,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineth-deshan&" alt="dineth-deshan" /></p>
 
 
-<Br>
-  
-[![Dineth's github stats](https://github-readme-stats.vercel.app/api?username=dineth-deshan&show_icons=true&locale=en)](https://github.com/dineth-deshan/github-readme-stats) [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=dineth-deshan&&layout=compact&theme=merko)](https://github.com/dineth-deshan/github-readme-stats)
-
- 
-<Br>
-
 </br></br>
 	
 ## 🙋🏻‍♂️ Let's Connect
